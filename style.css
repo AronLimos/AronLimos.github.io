@@ -1,10 +1,21 @@
 html {
-    background-color: black;
+    background-color: white;
+}
+
+body {
+    margin: 0;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 section {
     text-align: center;
-    background-color: antiquewhite
+    background-color: white;
+    margin: auto;
+    width: 50%;
+    border-color: blue;
+    border-style: dashed;
+    padding: 10px;
 }
-
-;
