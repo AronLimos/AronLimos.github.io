@@ -1,4 +1,4 @@
-// Intialixze
+// Intialize
 updateTime();
 
 function updateTime() {
